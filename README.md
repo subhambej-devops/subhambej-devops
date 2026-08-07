@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:FFB347&height=240&section=header&text=Subham%20Bej&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Data%20Engineer%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:FFB347&height=240&section=header&text=Subham%20Bej&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Site%20Reliability%20Engineer%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=22"/>
 
 <br>
 
@@ -18,11 +18,11 @@
 
 👨‍💻 About Me
 
-I am Subham Bej, a passionate DevOps Engineer, Cloud Engineer, and Data Engineering learner focused on building scalable cloud infrastructure, automated deployment workflows, and production-style engineering projects.
+I am Subham Bej, a passionate DevOps Engineer, Site Reliability Engineer, and Cloud Engineer focused on building reliable cloud infrastructure, automated deployment workflows, scalable Kubernetes platforms, and production-style engineering projects.
 
-I enjoy working with AWS, Terraform, Kubernetes, Docker, CI/CD pipelines, GitOps, DevSecOps, monitoring, logging, automation, and cloud-native architecture.
+I enjoy working with AWS, Terraform, Kubernetes, Docker, CI/CD pipelines, GitOps, DevSecOps, Linux, monitoring, logging, incident response, automation, and cloud-native architecture.
 
-My goal is to become a strong Modern DevOps Engineer who can design, deploy, secure, monitor, and operate real-world production infrastructure.
+My goal is to become a strong Modern DevOps and Site Reliability Engineer who can design, deploy, secure, monitor, scale, and operate real-world production infrastructure.
 
 🚀 Tech Stack
 
@@ -44,8 +44,10 @@ My goal is to become a strong Modern DevOps Engineer who can design, deploy, sec
 <img src="https://img.shields.io/badge/Helm-Charts-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-Logs-FCC624?style=for-the-badge&logo=grafana&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-Tracing-5A2D81?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 </div>
 
@@ -61,9 +63,11 @@ My goal is to become a strong Modern DevOps Engineer who can design, deploy, sec
 
 🔐 Improving DevSecOps, security scanning, and policy-as-code skills
 
-📊 Creating monitoring stacks using Prometheus, Grafana, Loki, and OpenTelemetry
+📊 Creating monitoring and observability stacks using Prometheus, Grafana, Loki, Tempo, and OpenTelemetry
 
-📚 Preparing for DevOps Engineer and Data Engineer job roles
+🚨 Learning SRE practices, including incident response, reliability, uptime, SLOs, SLIs, alerting, and automation
+
+📚 Preparing for DevOps Engineer and Site Reliability Engineer job roles
 
 📌 Featured Projects
 
@@ -79,11 +83,11 @@ AWS Landing Zone with Internal Developer Platform for multi-environment delivery
 
 AWS, Terraform, EKS, Argo CD, Helm, Jenkins, GitHub Actions
 
-📊 Data Engineering Cloud Projects
+🚨 SRE Observability Platform
 
-Cloud-based ETL/ELT and data pipeline projects across multiple cloud platforms
+Monitoring, logging, tracing, alerting, and incident-response focused reliability platform
 
-AWS, Azure, GCP, Python, SQL
+Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Alertmanager
 
 ☸️ Kubernetes DevOps Projects
 
