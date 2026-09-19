@@ -16,7 +16,7 @@
 
 </div>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 I am Subham Bej, a passionate DevOps Engineer, Site Reliability Engineer, and Cloud Engineer focused on building reliable cloud infrastructure, automated deployment workflows, scalable Kubernetes platforms, and production-style engineering projects.
 
@@ -24,7 +24,7 @@ I enjoy working with AWS, Terraform, Kubernetes, Docker, CI/CD pipelines, GitOps
 
 My goal is to become a strong Modern DevOps and Site Reliability Engineer who can design, deploy, secure, monitor, scale, and operate real-world production infrastructure.
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -51,7 +51,7 @@ My goal is to become a strong Modern DevOps and Site Reliability Engineer who ca
 
 </div>
 
-🎯 Current Focus
+## 🎯 Current Focus
 
 🏢 Building production-style AWS DevOps and Landing Zone projects
 
@@ -69,49 +69,16 @@ My goal is to become a strong Modern DevOps and Site Reliability Engineer who ca
 
 📚 Preparing for DevOps Engineer and Site Reliability Engineer job roles
 
-📌 Featured Projects
+## 📌 Featured Projects
 
-Project
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🏢 Enterprise AWS DevOps Platform | AWS Landing Zone with Internal Developer Platform for multi-environment delivery | AWS, Terraform, EKS, Argo CD, Helm, Jenkins, GitHub Actions |
+| 🚨 SRE Observability Platform | Monitoring, logging, tracing, alerting, and incident-response focused reliability platform | Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Alertmanager |
+| ☸️ Kubernetes DevOps Projects | Containerized deployment workflows with CI/CD, monitoring, and security scanning | Docker, Kubernetes, Helm, Prometheus, Grafana |
+| 🔐 DevSecOps Pipeline Projects | Secure CI/CD pipelines with vulnerability scanning and policy checks | Trivy, SonarQube, Checkov, Gitleaks |
 
-Description
-
-Tech Stack
-
-🏢 Enterprise AWS DevOps Platform
-
-AWS Landing Zone with Internal Developer Platform for multi-environment delivery
-
-AWS, Terraform, EKS, Argo CD, Helm, Jenkins, GitHub Actions
-
-🚨 SRE Observability Platform
-
-Monitoring, logging, tracing, alerting, and incident-response focused reliability platform
-
-Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Alertmanager
-
-☸️ Kubernetes DevOps Projects
-
-Containerized deployment workflows with CI/CD, monitoring, and security scanning
-
-Docker, Kubernetes, Helm, Prometheus, Grafana
-
-🔐 DevSecOps Pipeline Projects
-
-Secure CI/CD pipelines with vulnerability scanning and policy checks
-
-Trivy, SonarQube, Checkov, Gitleaks
-
-📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=subhambej-devops&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhambej-devops&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -119,15 +86,7 @@ Trivy, SonarQube, Checkov, Gitleaks
 
 </div>
 
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhambej-devops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
