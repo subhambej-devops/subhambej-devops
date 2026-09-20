@@ -1,109 +1,49 @@
-<div align="center">
+# Subham Bej
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:FFB347&height=240&section=header&text=Subham%20Bej&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Site%20Reliability%20Engineer%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=22"/>
+**Cloud & DevOps Engineering · Infrastructure as Code · Kubernetes · GitOps**
 
-<br>
+I build independent cloud and DevOps projects that connect infrastructure, application delivery, security checks, and operations. I completed my MCA in June 2026 and am looking for my first full-time Cloud / DevOps Engineering role.
 
-<a href="https://www.linkedin.com/in/subham-bej-devops/">
-  <img src="https://img.shields.io/badge/LINKEDIN-SUBHAM%20BEJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[LinkedIn](https://www.linkedin.com/in/subham-bej-devops/) · [Email](mailto:subhambej.tech@gmail.com) · Kolkata, India · Open to opportunities across India and remotely
 
-<a href="https://github.com/subhambej-devops">
-  <img src="https://img.shields.io/badge/GITHUB-SUBHAMBEJ--DEVOPS-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## Start here
 
-<img src="https://komarev.com/ghpvc/?username=subhambej-devops&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge"/>
+### [AWS Task Tracker — GitOps on EKS](https://github.com/subhambej-devops/Task-Tracker-GitOps-Platform-on-AWS-EKS-)
+A FastAPI application exploring Kubernetes delivery with Argo CD, Istio canary traffic splitting, and Prometheus/Grafana monitoring.
 
-</div>
+**Explore:** [Kubernetes manifests](https://github.com/subhambej-devops/Task-Tracker-GitOps-Platform-on-AWS-EKS-/tree/main/k8s) · [Demo screenshots](https://github.com/subhambej-devops/Task-Tracker-GitOps-Platform-on-AWS-EKS-/tree/main/screenshots)
 
-## 👨‍💻 About Me
+### [Azure AKS — DevSecOps & GitOps Platform](https://github.com/subhambej-devops/azure-aks-production-devsecops-platform)
+Terraform environment roots, a FastAPI service, Helm charts, Argo CD promotion, Azure DevOps pipelines, and SRE runbooks.
 
-I am Subham Bej, a passionate DevOps Engineer, Site Reliability Engineer, and Cloud Engineer focused on building reliable cloud infrastructure, automated deployment workflows, scalable Kubernetes platforms, and production-style engineering projects.
+**Explore:** [Implementation and validation evidence](https://github.com/subhambej-devops/azure-aks-production-devsecops-platform/blob/main/docs/evidence/PROJECT_EVIDENCE.md) · [Deployment guide](https://github.com/subhambej-devops/azure-aks-production-devsecops-platform/blob/main/docs/DEPLOYMENT.md) · [Runbooks](https://github.com/subhambej-devops/azure-aks-production-devsecops-platform/tree/main/runbooks)
 
-I enjoy working with AWS, Terraform, Kubernetes, Docker, CI/CD pipelines, GitOps, DevSecOps, Linux, monitoring, logging, incident response, automation, and cloud-native architecture.
+### [GCP — Event-driven Cloud & SRE Platform](https://github.com/subhambej-devops/gcp-enterprise-cloud-platform-sre)
+An order-processing reference platform using Terraform, Cloud Run, GKE, Pub/Sub, CI/CD, monitoring, and recovery procedures.
 
-My goal is to become a strong Modern DevOps and Site Reliability Engineer who can design, deploy, secure, monitor, scale, and operate real-world production infrastructure.
+**Explore:** [Validation and local runtime evidence](https://github.com/subhambej-devops/gcp-enterprise-cloud-platform-sre/blob/main/docs/evidence/PROJECT_EVIDENCE.md) · [Infrastructure](https://github.com/subhambej-devops/gcp-enterprise-cloud-platform-sre/tree/main/terraform) · [Tests](https://github.com/subhambej-devops/gcp-enterprise-cloud-platform-sre/tree/main/tests)
 
-## 🚀 Tech Stack
+## Evidence and scope
 
-<div align="center">
+These are portfolio projects. The AWS Task Tracker includes demonstration screenshots and troubleshooting notes. The Azure and GCP evidence reports record dated local checks and identify cloud deployment checks still outstanding. Repository code, local validation, and authenticated cloud deployment are separate milestones; the linked reports describe what was actually recorded.
 
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Argo_CD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-Charts-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Loki-Logs-FCC624?style=for-the-badge&logo=grafana&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-Tracing-5A2D81?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+## Tools used in my projects
 
-</div>
+| Area | Tools |
+| --- | --- |
+| Infrastructure | Terraform, AWS, Azure, GCP, Bicep |
+| Delivery | Docker, Kubernetes, Helm, Argo CD, GitHub Actions, Jenkins, Azure DevOps |
+| Security checks | Trivy, Checkov, Gitleaks |
+| Operations | Linux, Bash, Python, Prometheus, Grafana |
 
-## 🎯 Current Focus
+## More project work
 
-🏢 Building production-style AWS DevOps and Landing Zone projects
+- [AWS Landing Zone & Internal Developer Platform](https://github.com/subhambej-devops/Enterprise-AWS-Landing-Zone-with-Internal-Developer-Platform) — Terraform, EKS, GitOps, and developer self-service reference implementation.
+- [Azure Cloud Platform & SRE Automation](https://github.com/subhambej-devops/azure-enterprise-platform-sre-automation) — Bicep/Terraform infrastructure, application services, automation, and operational runbooks.
+- [GCP GKE DevSecOps Platform](https://github.com/subhambej-devops/gcp-gke-production-devsecops-platform) — application, GitOps, and infrastructure components for a Kubernetes delivery workflow.
 
-☸️ Learning advanced Kubernetes and Amazon EKS platform engineering
+## What I am improving next
 
-🏗️ Writing reusable Terraform Infrastructure as Code modules
+Reproducible cloud deployment evidence, hosted CI results, and measured rollback and recovery exercises. I am also deepening Linux troubleshooting and Kubernetes operations.
 
-🔄 Practicing GitOps deployments with Argo CD
-
-🔐 Improving DevSecOps, security scanning, and policy-as-code skills
-
-📊 Creating monitoring and observability stacks using Prometheus, Grafana, Loki, Tempo, and OpenTelemetry
-
-🚨 Learning SRE practices, including incident response, reliability, uptime, SLOs, SLIs, alerting, and automation
-
-📚 Preparing for DevOps Engineer and Site Reliability Engineer job roles
-
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏢 Enterprise AWS DevOps Platform | AWS Landing Zone with Internal Developer Platform for multi-environment delivery | AWS, Terraform, EKS, Argo CD, Helm, Jenkins, GitHub Actions |
-| 🚨 SRE Observability Platform | Monitoring, logging, tracing, alerting, and incident-response focused reliability platform | Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Alertmanager |
-| ☸️ Kubernetes DevOps Projects | Containerized deployment workflows with CI/CD, monitoring, and security scanning | Docker, Kubernetes, Helm, Prometheus, Grafana |
-| 🔐 DevSecOps Pipeline Projects | Secure CI/CD pipelines with vulnerability scanning and policy checks | Trivy, SonarQube, Checkov, Gitleaks |
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=subhambej-devops&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/subham-bej-devops/">
-  <img src="https://img.shields.io/badge/LinkedIn-Subham%20Bej-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/subhambej-devops">
-  <img src="https://img.shields.io/badge/GitHub-subhambej--devops-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-
-⭐ Thanks for visiting my GitHub profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:8A2BE2,100:00D9FF&height=120&section=footer"/>
-
-</div>
+If you are hiring for a junior Cloud / DevOps role, [let's connect](https://www.linkedin.com/in/subham-bej-devops/).
